@@ -1,0 +1,36 @@
+Abstract Syntax Tree
+└──CLASS DECLARATION
+    ├──modifier
+    │   └──(access modifier, public)
+    ├──(classname, a)
+    └──CLASS BODY
+        └──METHOD DECLARATION
+            ├──modifier
+            │   ├──(access modifier, public)
+            │   └──(access modifier, static)
+            ├──(datatype, void)
+            ├──(datatype, String)
+            └──VARIABLE DECLARATION/INITIALISATION STATEMENT
+                ├──variable initialisation
+                │   ├──(datatype, int)
+                │   ├──(id, a)
+                │   └──(num, 3)
+                └──SWITCH STATEMENT
+                    ├──(id, a)
+                    └──switch
+                        ├──(num, 1)
+                        ├──ASSIGNMENT STATEMENT
+                        │   └──=
+                        │       ├──(id, a)
+                        │       └──-
+                        │           ├──(id, a)
+                        │           └──(num, 5)
+                        └──switch
+                            ├──(num, 2)
+                            └──ASSIGNMENT STATEMENT
+                                └──=
+                                    ├──(id, a)
+                                    └──+
+                                        ├──(id, a)
+                                        └──(num, 4)
+
