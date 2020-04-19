@@ -1,0 +1,285 @@
+Keyword : public
+Keyword : class
+Identifier : a
+Brackets : {
+Keyword : public
+Keyword : static
+Keyword : void
+Identifier : main
+Brackets : (
+Keyword : String
+Brackets : [
+Brackets : ]
+Keyword : args
+Brackets : )
+Brackets : {
+Keyword : int
+Identifier : a
+semi-colon : ;
+Identifier : a
+Assignment operator : =
+NUM : 3
+semi-colon : ;
+Keyword : int
+Identifier : b
+Assignment operator : =
+Identifier : a
+Arithmetic operator : +
+NUM : 2
+semi-colon : ;
+Keyword : int
+Identifier : f
+Assignment operator : =
+Identifier : b
+Arithmetic operator : -
+NUM : 4
+semi-colon : ;
+Brackets : }
+Brackets : }
+Keyword : public
+Keyword : class
+Identifier : b
+Brackets : {
+Keyword : public
+Keyword : static
+Keyword : void
+Identifier : main
+Brackets : (
+Keyword : String
+Brackets : [
+Brackets : ]
+Keyword : args
+Brackets : )
+Brackets : {
+Keyword : int
+Identifier : a
+semi-colon : ;
+Identifier : a
+Assignment operator : =
+NUM : 3
+semi-colon : ;
+Identifier : a
+Assignment operator : =
+Identifier : a
+semi-colon : ;
+Brackets : }
+Brackets : }
+Keyword : public
+Keyword : class
+Identifier : b
+Brackets : {
+Keyword : public
+Keyword : static
+Keyword : void
+Identifier : main
+Brackets : (
+Keyword : String
+Brackets : [
+Brackets : ]
+Keyword : args
+Brackets : )
+Brackets : {
+Keyword : int
+Identifier : a
+semi-colon : ;
+Identifier : a
+Assignment operator : =
+NUM : 3
+semi-colon : ;
+Identifier : a
+Assignment operator : =
+Identifier : a
+semi-colon : ;
+Keyword : int
+Identifier : b
+Assignment operator : =
+NUM : 4
+semi-colon : ;
+Keyword : public
+Keyword : class
+Identifier : b
+Brackets : {
+Keyword : public
+Keyword : static
+Keyword : void
+Identifier : main
+Brackets : (
+Keyword : String
+Brackets : [
+Brackets : ]
+Keyword : args
+Brackets : )
+Brackets : {
+Keyword : int
+Identifier : a
+semi-colon : ;
+Identifier : a
+Assignment operator : =
+NUM : 3
+semi-colon : ;
+Identifier : a
+Assignment operator : =
+Identifier : a
+semi-colon : ;
+Keyword : int
+Identifier : b
+semi-colon : ;
+Identifier : b
+Assignment operator : =
+NUM : 5
+semi-colon : ;
+Identifier : b
+Assignment operator : =
+Identifier : b
+semi-colon : ;
+Brackets : }
+Brackets : }
+Keyword : public
+Keyword : class
+Identifier : c
+Brackets : {
+Keyword : public
+Keyword : static
+Keyword : void
+Identifier : main
+Brackets : (
+Keyword : String
+Brackets : [
+Brackets : ]
+Keyword : args
+Brackets : )
+Brackets : {
+Keyword : int
+Identifier : b
+semi-colon : ;
+Identifier : b
+Assignment operator : =
+NUM : 3
+semi-colon : ;
+Identifier : c
+Assignment operator : =
+Identifier : b
+Arithmetic operator : *
+NUM : 1
+semi-colon : ;
+Identifier : d
+Assignment operator : =
+Identifier : b
+Arithmetic operator : -
+NUM : 0
+semi-colon : ;
+Brackets : }
+Brackets : }
+Keyword : public
+Keyword : class
+Identifier : a
+Brackets : {
+Keyword : public
+Keyword : static
+Keyword : void
+Identifier : main
+Brackets : (
+Keyword : String
+Brackets : [
+Brackets : ]
+Keyword : args
+Brackets : )
+Brackets : {
+Keyword : int
+Identifier : a
+semi-colon : ;
+Identifier : a
+Assignment operator : =
+NUM : 3
+semi-colon : ;
+Keyword : int
+Identifier : b
+Assignment operator : =
+Identifier : a
+Arithmetic operator : +
+NUM : 2
+semi-colon : ;
+Keyword : int
+Identifier : f
+Assignment operator : =
+Identifier : b
+Arithmetic operator : -
+NUM : 4
+semi-colon : ;
+Brackets : }
+Brackets : }
+Keyword : public
+Keyword : class
+Identifier : b
+Brackets : {
+Keyword : public
+Keyword : static
+Keyword : void
+Identifier : main
+Brackets : (
+Keyword : String
+Brackets : [
+Brackets : ]
+Keyword : args
+Brackets : )
+Brackets : {
+Keyword : int
+Identifier : a
+semi-colon : ;
+Identifier : a
+Assignment operator : =
+NUM : 3
+semi-colon : ;
+Identifier : a
+Assignment operator : =
+Identifier : a
+semi-colon : ;
+Keyword : int
+Identifier : b
+semi-colon : ;
+Identifier : b
+Assignment operator : =
+NUM : 5
+semi-colon : ;
+Identifier : b
+Assignment operator : =
+Identifier : b
+semi-colon : ;
+Brackets : }
+Brackets : }
+Keyword : public
+Keyword : class
+Identifier : c
+Brackets : {
+Keyword : public
+Keyword : static
+Keyword : void
+Identifier : main
+Brackets : (
+Keyword : String
+Brackets : [
+Brackets : ]
+Keyword : args
+Brackets : )
+Brackets : {
+Keyword : int
+Identifier : b
+semi-colon : ;
+Identifier : b
+Assignment operator : =
+NUM : 3
+semi-colon : ;
+Identifier : c
+Assignment operator : =
+Identifier : b
+Arithmetic operator : *
+NUM : 1
+semi-colon : ;
+Identifier : d
+Assignment operator : =
+Identifier : b
+Arithmetic operator : -
+NUM : 0
+semi-colon : ;
+Brackets : }
+Brackets : }
