@@ -1,0 +1,24 @@
+Basic Block 1
+i = 0
+
+Basic Block 2
+L3 :
+if i goto L1
+
+Basic Block 3
+goto L2
+
+Basic Block 4
+T1 = 4 * i
+goto L3
+
+Basic Block 5
+T2 = a + T1
+
+Basic Block 6
+L2 :
+T3 = 4 * i
+T4 = a + T3
+b = T4
+
+

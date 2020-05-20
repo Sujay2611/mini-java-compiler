@@ -1,0 +1,12 @@
+i = 0
+L3 :
+if i goto L1
+goto L2
+T1 = 4 * i
+goto L3
+T2 = a + T1
+L2 :
+T3 = 4 * i
+T4 = a + T3
+b = T4
+

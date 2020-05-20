@@ -1,0 +1,27 @@
+New Block
+mov R1 0
+sd R1 i
+
+New Block
+L3 : 
+bne R1 0 L1
+
+New Block
+b L2
+
+New Block
+mul R2 4 R1
+b L3
+
+New Block
+ld R3 a
+add R4 R3 R2
+
+New Block
+L2 : 
+mul R5 4 R1
+add R6 R3 R5
+mov R7 R6
+sd R7 b
+
+
